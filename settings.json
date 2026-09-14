@@ -1,0 +1,67 @@
+{
+  "disable_ai": true,
+  "ui_font_size": 16,
+  "buffer_font_size": 16,
+  "buffer_font_weight": 600,
+  "ui_font_family": "Poppins",
+  "buffer_font_family": "JetBrainsMono Nerd Font",
+  "theme": "One Dark",
+  "icon_theme": "Material Icon Theme",
+  "redact_private_values": true,
+  "restore_on_startup": "launchpad",
+  "format_on_save": "on",
+  "soft_wrap": "editor_width",
+  "terminal": {
+    "button": false,
+  },
+  "outline_panel": {
+    "button": false,
+  },
+  "collaboration_panel": {
+    "button": false,
+  },
+  "auto_install_extensions": {
+    "html": true,
+    "emmet": true,
+    "material-icon-theme": true,
+  },
+  "toolbar": {
+    "quick_actions": false,
+  },
+  "which_key": {
+    "enabled": true,
+  },
+  "autosave": {
+    "after_delay": {
+      "milliseconds": 2000,
+    },
+  },
+  "tabs": {
+    "file_icons": true,
+    "git_status": true,
+  },
+  "title_bar": {
+    "show_branch_status_icon": true,
+  },
+  "status_bar": {
+    "show_active_file": true,
+  },
+  "git_panel": {
+    "show_count_badge": true,
+    "file_icons": true,
+  },
+  "project_panel": {
+    "hide_root": true,
+    "git_status_indicator": true,
+    "diagnostic_badges": true,
+    "bold_folder_labels": true,
+  },
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false,
+    "anthropic_retention": false,
+  },
+  "session": {
+    "trust_all_worktrees": true,
+  },
+}
